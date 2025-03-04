@@ -1,4 +1,4 @@
-# smos2017-docker
+# infra-docker-php5.6
 
 - Create file for connect_db after clone is name `connect_db.php` and use example file is `connect_db.example.php` in path `src/lib/**`
 - Create Folder `uploads` for files upload at `src`
